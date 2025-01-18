@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me write to abdulatif1485@gmail.com
+- 📫 How to reach me write to abdulatifbotirsherov1485@gmail.com
 
 <!---
 AbdulatifBotirsherov/AbdulatifBotirsherov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
